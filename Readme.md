@@ -10,3 +10,8 @@ To Install:
 - Create a new service
 - Select Embbed Container
 - Upload!
+
+Usecase: Interacting with a REST API.
+
+(You might need to use your weather API key!!) get one from https://openweathermap.org/api
+
